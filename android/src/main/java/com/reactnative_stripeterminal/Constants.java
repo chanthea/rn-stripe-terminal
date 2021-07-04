@@ -43,6 +43,7 @@ public class Constants {
     public static final String EVENT_ABORT_CREATE_PAYMENT_COMPLETION = "abortCreatePaymentCompletion";
     public static final String EVENT_ABORT_READ_PAYMENT_METHOD = "abortReadPaymentMethod";
     public static final String EVENT_READ_RESUSABLE_CARD = "readReusableCard";
+    public static final String EVENT_CANCEL_COLLECT_PAYMENT_COMPLETION = "cancelCollectPaymentCompletion";
 
     //JSON keys
     public static final String ERROR ="error";
